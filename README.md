@@ -19,7 +19,7 @@
 </p>
 
 
-##  How it works 
+## ⁉️ How it works 
 
 1. **Choose your year or speciality** (e.g., Software Engineering)
 2. **Select a semester** to calculate
