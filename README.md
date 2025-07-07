@@ -15,7 +15,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/36F97129-42B6-4C6C-B4CF-A43EAC07CC4F.JPEG" width="420" alt="Home Screen"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/1D669AA9-331B-4677-B2C2-4E838122D748.JPEG" width="420" alt="Semester Selection Screen"/>
+  <img src="screenshots/36F97129-42B6-4C6C-B4CF-A43EAC07CC4F.JPEG" width="400" alt="Home Screen"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/1D669AA9-331B-4677-B2C2-4E838122D748.JPEG" width="400" alt="Semester Selection Screen"/>
 </p>
 
 
