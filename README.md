@@ -17,7 +17,9 @@
 <p align="center">
   <img src="screenshots/36F97129-42B6-4C6C-B4CF-A43EAC07CC4F.JPEG" width="420" alt="Home Screen"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/1D669AA9-331B-4677-B2C2-4E838122D748.JPEG" width="420" alt="Semester Selection Screen"/>
 </p>
-## 🚀 How It Works
+
+
+##  How it works 
 
 1. **Choose your year or speciality** (e.g., Software Engineering)
 2. **Select a semester** to calculate
@@ -35,7 +37,7 @@
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/uniaveragedz.git
+   git clone https://github.com/thabet1thabet1/UniAverageDZ.git
    cd uniaveragedz
    ```
 2. **Install dependencies:**
