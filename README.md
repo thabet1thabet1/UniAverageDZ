@@ -63,8 +63,6 @@
 ## 🙋‍♂️ Author
 
 - **thabet1thabet1**  
-  [GitHub](https://github.com/thabet1thabet1)
+  [LinedIn]([https://github.com/thabet1thabet1](https://www.linkedin.com/in/thabet-charef-khodja-97ab03347/))
 
-## 📄 License
 
-This project is licensed under the MIT License.
